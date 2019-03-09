@@ -4,7 +4,8 @@ def hello_t(array)
     yield array[i]
     i += 1
     end
-    array
+
+  array
 end
 
 names = ["Tim", "Tom", "Jim"]
