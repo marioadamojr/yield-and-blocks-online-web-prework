@@ -1,5 +1,5 @@
 def hello_t(array)
-  if 
+  if
     i = 0
     while i < array.length
       yield(array[i])
